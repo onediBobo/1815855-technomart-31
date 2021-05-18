@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Johar Ekazhev](https://up.htmlacademy.ru/htmlcss/31/user/1815855).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Вестеровский](https://htmlacademy.ru/profile/hard_magic).
 
 ---
 
